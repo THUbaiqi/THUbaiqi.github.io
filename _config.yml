@@ -1,6 +1,6 @@
 # Site settings
-title: Big-Little baby Blog
-SEOTitle: 大宝贝和小宝贝的家 | BL Baby Blog
+title: Big baby and Little baby's Home
+SEOTitle: 大宝贝和小宝贝的家 | BL Baby Home
 header-img: img/post-bg-desk.jpg
 email: 340679646@qq.com
 description: "This is our home. Big baby and little baby are always together."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Thubaiqi/THUbaiqi.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Big baby and little baby are always together!"
-#sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
